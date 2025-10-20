@@ -43,6 +43,5 @@ echo(str_word_count("Hello World!")); //hasilnya adalah 2
 
 // mencari kata yang spesifik di dalam string. Jika kecocokan ditemukan, fungsi akan mengembalikan posisi karakter dari kecocokan pertama. Jika tidak ditemukan kecocokan, fungsi akan mengembalikan FALSE.
 
-echo strpos("Hello World!", "World");
-
+echo strpos("Hello World!", "World"); //hasil 6
 ?>
